@@ -197,7 +197,7 @@ app.use('/assets', express.static(path.join(__dirname, '../assets')));
 
 ## 🎥 Vidéo de démonstration
 
-▶️ [Voir la démo sur YouTube](https://youtube.com)
+▶️ [Voir la démo sur YouTube](https://youtu.be/NNnSUkAEK64?si=wmFwRft5oqHJydDE)
 
 ---
 
